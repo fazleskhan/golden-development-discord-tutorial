@@ -12,3 +12,8 @@ https://www.youtube.com/watch?v=eHssMfhVXwk&list=PLbeTcejqhlQRJDdICA8pWmbuqivgc9
 ### Code Your Own Discord Bot | Basic Slash Command Handler | discord.js v14 (2023)
 
 https://www.youtube.com/watch?v=dApRecz4BDc&list=PLbeTcejqhlQRJDdICA8pWmbuqivgc9aEq&index=2
+
+## Third Tutorial
+### Code Your Own Discord Bot | Slash Command Options | discord.js v14 (2023)
+
+https://www.youtube.com/watch?v=g5aogg2Sl2I&list=PLbeTcejqhlQRJDdICA8pWmbuqivgc9aEq&index=3

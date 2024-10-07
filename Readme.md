@@ -22,3 +22,8 @@ https://www.youtube.com/watch?v=g5aogg2Sl2I&list=PLbeTcejqhlQRJDdICA8pWmbuqivgc9
 ### Code Your Own Discord Bot | Advanced Slash Command Handler | discord.js v14 (2023)
 
 https://www.youtube.com/watch?v=FtwP9eiH1gQ&list=PLbeTcejqhlQRJDdICA8pWmbuqivgc9aEq&index=4
+
+## Fifth Tutorial
+### Code Your Own Discord Bot | Advanced Event Handler | discord.js v14 (2023)
+
+https://www.youtube.com/watch?v=lCvc4Y3rnXc&list=PLbeTcejqhlQRJDdICA8pWmbuqivgc9aEq&index=5

@@ -1,4 +1,4 @@
-console.log("Hellow World!");
+console.log("Hello World!");
 
 const {Client, Events, GatewayIntentBits} = require("discord.js");
 const {token} = require("./config.json");
